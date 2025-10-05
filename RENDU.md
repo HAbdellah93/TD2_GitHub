@@ -12,3 +12,5 @@ git lfs track "*.jpg"
 ## Template de Pull Request
 ![PR Template](images/capture_pr_template.png)
 ![PR Template](images/capture4.png)
+## Template de rapport de bug
+![Bug Template](images/capture5.png)
