@@ -16,3 +16,5 @@ git lfs track "*.jpg"
 ![Bug Template](images/capture5.png)
 ## Dependency Graph
 ![Dependency Graph](images/capture6.png)
+## GitHub Action Check RENDU.md
+![Action Whalesay](images/capture7.png)
