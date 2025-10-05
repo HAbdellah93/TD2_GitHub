@@ -18,3 +18,5 @@ git lfs track "*.jpg"
 ![Dependency Graph](images/capture6.png)
 ## GitHub Action Check RENDU.md
 ![Action Whalesay](images/capture7.png)
+![Tag le-tag](images/capture8.png)
+![Tag rendu](images/capture9.png)
