@@ -9,3 +9,6 @@ git lfs track "*.jpg"
 ![Capture 1](images/capture1.png)
 ![Capture 2](images/capture2.png)
 ![Capture 3](images/capture3.png)
+## Template de Pull Request
+![PR Template](images/capture_pr_template.png)
+![PR Template](images/capture4.png)
