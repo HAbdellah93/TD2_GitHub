@@ -8,13 +8,14 @@ on:
 jobs:
   check-title:
     runs-on: ubuntu-latest
+    container: docker://docker/whalesay:latest
     steps:
       - uses: actions/checkout@v4
       - name: Check RENDU.md title
         run: |
           if grep -q '^# Rendu TD2' RENDU.md; then
-            echo 'Titre trouvé : Succès'
+            echo "Succès" | cowsay
           else
-            echo 'Titre non trouvé : Échec'
+            echo "Échec" | cowsay
             exit 1
           fi
