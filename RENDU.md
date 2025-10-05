@@ -14,3 +14,5 @@ git lfs track "*.jpg"
 ![PR Template](images/capture4.png)
 ## Template de rapport de bug
 ![Bug Template](images/capture5.png)
+## Dependency Graph
+![Dependency Graph](images/capture6.png)
